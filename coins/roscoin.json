@@ -1,0 +1,27 @@
+{
+	"coin": {
+		"name": "ROS Coin",
+		"symbol": "ROS",
+		"slug": "roscoin",
+		"algo": "X11",
+		"explorer": false,
+		"imgs": {
+			"img16": "RXJyb3IgNDEwOiBTZXJ2ZXIgY291bGRuJ3QgcGFyc2UgdGhlID91cmw9IHRoYXQgeW91IHdlcmUgbG9va2luZyBmb3IsIGJlY2F1c2UgdGhlIGhvc3RuYW1lIG9mIHRoZSBvcmlnaW4gaXMgdW5yZXNvbHZhYmxlIChETlMpIG9yIGJsb2NrZWQgYnkgcG9saWN5Lgo=",
+			"img32": "RXJyb3IgNDEwOiBTZXJ2ZXIgY291bGRuJ3QgcGFyc2UgdGhlID91cmw9IHRoYXQgeW91IHdlcmUgbG9va2luZyBmb3IsIGJlY2F1c2UgdGhlIGhvc3RuYW1lIG9mIHRoZSBvcmlnaW4gaXMgdW5yZXNvbHZhYmxlIChETlMpIG9yIGJsb2NrZWQgYnkgcG9saWN5Lgo=",
+			"img64": "RXJyb3IgNDEwOiBTZXJ2ZXIgY291bGRuJ3QgcGFyc2UgdGhlID91cmw9IHRoYXQgeW91IHdlcmUgbG9va2luZyBmb3IsIGJlY2F1c2UgdGhlIGhvc3RuYW1lIG9mIHRoZSBvcmlnaW4gaXMgdW5yZXNvbHZhYmxlIChETlMpIG9yIGJsb2NrZWQgYnkgcG9saWN5Lgo=",
+			"img128": "RXJyb3IgNDEwOiBTZXJ2ZXIgY291bGRuJ3QgcGFyc2UgdGhlID91cmw9IHRoYXQgeW91IHdlcmUgbG9va2luZyBmb3IsIGJlY2F1c2UgdGhlIGhvc3RuYW1lIG9mIHRoZSBvcmlnaW4gaXMgdW5yZXNvbHZhYmxlIChETlMpIG9yIGJsb2NrZWQgYnkgcG9saWN5Lgo=",
+			"img256": "RXJyb3IgNDEwOiBTZXJ2ZXIgY291bGRuJ3QgcGFyc2UgdGhlID91cmw9IHRoYXQgeW91IHdlcmUgbG9va2luZyBmb3IsIGJlY2F1c2UgdGhlIGhvc3RuYW1lIG9mIHRoZSBvcmlnaW4gaXMgdW5yZXNvbHZhYmxlIChETlMpIG9yIGJsb2NrZWQgYnkgcG9saWN5Lgo="
+		},
+		"cdata": {
+			"name": "ROS Coin",
+			"desc": "\u003cp\u003eRoscoin cryptocurrency is launched on Sep.19.2014. \u003c/p\u003e\u003cp\u003ePowered by x11 algorithm, precisely managed by developer placebo and completely designed by logocreator.\u003c/p\u003e",
+			"web": "http://roscoin.com/",
+			"total": "0",
+			"diff": "1 block",
+			"rew": "-",
+			"proof": "PoW/PoS",
+			"start": "12/06/2014",
+			"tw": "@roscoin"
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"coin": {
+		"name": "TotCoin",
+		"symbol": "TOT",
+		"slug": "totcoin",
+		"algo": "Scrypt",
+		"explorer": false,
+		"imgs": {
+			"img16": "RXJyb3IgNDEwOiBTZXJ2ZXIgY291bGRuJ3QgcGFyc2UgdGhlID91cmw9IHRoYXQgeW91IHdlcmUgbG9va2luZyBmb3IsIGJlY2F1c2UgdGhlIGhvc3RuYW1lIG9mIHRoZSBvcmlnaW4gaXMgdW5yZXNvbHZhYmxlIChETlMpIG9yIGJsb2NrZWQgYnkgcG9saWN5Lgo=",
+			"img32": "RXJyb3IgNDEwOiBTZXJ2ZXIgY291bGRuJ3QgcGFyc2UgdGhlID91cmw9IHRoYXQgeW91IHdlcmUgbG9va2luZyBmb3IsIGJlY2F1c2UgdGhlIGhvc3RuYW1lIG9mIHRoZSBvcmlnaW4gaXMgdW5yZXNvbHZhYmxlIChETlMpIG9yIGJsb2NrZWQgYnkgcG9saWN5Lgo=",
+			"img64": "RXJyb3IgNDEwOiBTZXJ2ZXIgY291bGRuJ3QgcGFyc2UgdGhlID91cmw9IHRoYXQgeW91IHdlcmUgbG9va2luZyBmb3IsIGJlY2F1c2UgdGhlIGhvc3RuYW1lIG9mIHRoZSBvcmlnaW4gaXMgdW5yZXNvbHZhYmxlIChETlMpIG9yIGJsb2NrZWQgYnkgcG9saWN5Lgo=",
+			"img128": "RXJyb3IgNDEwOiBTZXJ2ZXIgY291bGRuJ3QgcGFyc2UgdGhlID91cmw9IHRoYXQgeW91IHdlcmUgbG9va2luZyBmb3IsIGJlY2F1c2UgdGhlIGhvc3RuYW1lIG9mIHRoZSBvcmlnaW4gaXMgdW5yZXNvbHZhYmxlIChETlMpIG9yIGJsb2NrZWQgYnkgcG9saWN5Lgo=",
+			"img256": "RXJyb3IgNDEwOiBTZXJ2ZXIgY291bGRuJ3QgcGFyc2UgdGhlID91cmw9IHRoYXQgeW91IHdlcmUgbG9va2luZyBmb3IsIGJlY2F1c2UgdGhlIGhvc3RuYW1lIG9mIHRoZSBvcmlnaW4gaXMgdW5yZXNvbHZhYmxlIChETlMpIG9yIGJsb2NrZWQgYnkgcG9saWN5Lgo="
+		},
+		"cdata": {
+			"name": "TotCoin",
+			"desc": "\u003cp\u003eTotCoin is a Scrypt Proof of Work/Proof of Stake cryptocurrency with a 120 second block time.\u003c/p\u003e",
+			"web": "-",
+			"total": "1613150000",
+			"diff": "",
+			"rew": "50",
+			"proof": "PoW/PoS",
+			"start": "08/09/2016",
+			"tw": ""
+		}
+	}
+}
